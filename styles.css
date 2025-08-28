@@ -4,6 +4,6 @@ body {
     text-align: center;
 }
 p {
+    background-color: blueviolet;
     padding: 10pt;
-    background: blueviolet;
-}
+    }
