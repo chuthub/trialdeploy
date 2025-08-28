@@ -3,3 +3,7 @@ body {
     background: orange;
     text-align: center;
 }
+p {
+    padding: 10pt;
+    background-color: blueviolet;
+}
