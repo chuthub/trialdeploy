@@ -4,6 +4,7 @@ body {
     text-align: center;
 }
 p {
+    margin: 50pt;
     background-color: blueviolet;
     padding: 10pt;
     }
