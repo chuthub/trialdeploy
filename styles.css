@@ -1,11 +1,6 @@
 body {
     margin: 0;
-    background: linear-gradient(red, orangered, orange);
+    background: orange;
     text-align: center;
 }
-p {
-    margin-left: 250pt;
-    margin-right: 250pt;
-    background-color: lightblue;
-    padding: 10pt;
-    }
+
