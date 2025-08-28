@@ -4,7 +4,8 @@ body {
     text-align: center;
 }
 p {
-    margin: 50pt;
+    margin-left: 150pt;
+    margin-right: 150pt;
     background-color: blueviolet;
     padding: 10pt;
     }
