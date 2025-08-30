@@ -3,4 +3,8 @@ body {
     background: orange;
     text-align: center;
 }
-
+img {
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+}
