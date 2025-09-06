@@ -9,7 +9,7 @@
                 url("images/palmTree.png") no-repeat,
                 linear-gradient(to right, blue, white);
             background-size: 35% 100%, cover; 
-            background-position: right;           
+            background-position: right;        
         }
         header {
             width: 65%;
@@ -24,10 +24,13 @@
             height: 17%;
             border: solid;
         }
+        .mask {
+            mask-image: linear-gradient(to right, black, transparent);
+        }
     </style>
 </head>
 <body>
-    <header>
+    <header class="mask">
         <h1>PRACTICE HEADER</h1>
     </header>
     <section>
@@ -55,5 +58,8 @@
             because it is.
         </div>
     </section>
+    <div class="mask" style="clear: both; margin: 70;">
+        <img src="images/palmTree.png" alt="trees" width="120px" height="170px;">
+    </div>
 </body>
 </html>
